@@ -1,4 +1,4 @@
 # University Work
 
-All credit to me :D\n
+All credit to me :D
 Literally just a repo for my Uni assignments
